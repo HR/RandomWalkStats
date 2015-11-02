@@ -1,2 +1,2 @@
 # RandomWalkStats
-The Statistics of Random Walks research report 
+The Statistics of Random Walks research report
