@@ -1,4 +1,4 @@
-# Random Walk Generation
+# Random walk generation
 while True:
  s += 1
  if (bool(random.getrandbits(1))):

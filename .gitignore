@@ -1,1 +1,5 @@
 *.py
+*.aux
+*.bak
+*.log
+/**/*.log

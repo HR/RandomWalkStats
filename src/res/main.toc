@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {subsection}{\numberline {1.1}Simple Random Walk on a $\mathbb {Z}$ lattice.}{2}
+\contentsline {subsection}{\numberline {1.2}Loop Erased Random Walks (LERW)}{3}
+\contentsline {paragraph}{Loop Erased Random Walk definition.}{3}
+\contentsline {section}{\numberline {2}Methodology}{4}
+\contentsline {subsection}{\numberline {2.1}Random Walk Implementation}{4}
+\contentsline {paragraph}{System definition.}{4}
+\contentsline {paragraph}{Random Walk generation.}{5}
+\contentsline {paragraph}{Random Walk Loop Erasure.}{5}
+\contentsline {subsection}{\numberline {2.2}Collecting Data}{6}
+\contentsline {section}{\numberline {3}Results and Analysis}{9}
+\contentsline {paragraph}{Return distribution of 1D and 2D Random Walks.}{9}
+\contentsline {paragraph}{Difference in arc length distribution of returns and loops erased.}{9}
+\contentsline {section}{\numberline {4}Conclusion}{12}
+\contentsline {section}{\numberline {5}Appendices}{12}
+\contentsline {subsection}{\numberline {5.1}System Definition code}{13}
+\contentsline {subsection}{\numberline {5.2}Random Walk generation code}{13}
+\contentsline {subsection}{\numberline {5.3}Loop Erased Random Walk code}{13}
+\contentsline {section}{\numberline {6}Bibliography}{14}
+\contentsline {section}{\numberline {7}Acknowledgements}{14}
